@@ -1,5 +1,6 @@
 # Interface-a-4x4-matrix-keypad-and-display-the-output-on-LCD-for-keys-4-5-6.
-
+# NAME:G.KARTHIK
+# REG NO:21223220043
 # Step 1: Hardware Setup
 
 Connect the 4x4 keypad to STM32:
