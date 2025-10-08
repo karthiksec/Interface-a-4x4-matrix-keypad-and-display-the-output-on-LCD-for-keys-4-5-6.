@@ -1,4 +1,4 @@
-<img width="1919" height="1021" alt="Screenshot 2025-10-08 090639" src="https://github.com/user-attachments/assets/a5e24e1d-2153-4e1c-b2f3-faad8a6abe10" /># Interface-a-4x4-matrix-keypad-and-display-the-output-on-LCD-for-keys-4-5-6.
+# Interface-a-4x4-matrix-keypad-and-display-the-output-on-LCD-for-keys-4-5-6.
 
 # Step 1: Hardware Setup
 
@@ -204,8 +204,8 @@ void Error_Handler(void)
 <img width="1912" height="979" alt="Screenshot 2025-10-08 090656" src="https://github.com/user-attachments/assets/9d443d07-5cfc-432d-a6e1-1044c2b933b2" />
 <img width="1919" height="981" alt="Screenshot 2025-10-08 090645" src="https://github.com/user-attachments/assets/45691555-3414-4ebc-80b8-21a54048df5c" />
 
+<img width="1919" height="1021" alt="Screenshot 2025-10-08 090639" src="https://github.com/user-attachments/assets/a5e24e1d-2153-4e1c-b2f3-faad8a6abe10" />
 
+# RESULT
 
-# RRESULT
-
-
+The STM32 successfully scans ROW2 of the 4x4 keypad, detects keys 4, 5, and 6, and displays the pressed key on the LCD in real-time, while ignoring all other keys.
